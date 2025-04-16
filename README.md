@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome, I'm himorryyyDev! 
+My IRL name is Maksim. Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and love to make beautiful websites
 
-<!--
-**himorryyyDev/himorryyyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 I use:
+- HTML, CSS
+- Vanilla JavaScript
+- Git
+- Figma
 
-Here are some ideas to get you started:
+## 🌟 Key projects
+- Soon... (give me just a little bit of time)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact w/ me:
+- Email: himorryyyDev@gmail.com
+- [Telegram](https://t.me/himorryyyDev)
