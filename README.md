@@ -4,7 +4,6 @@ Frontend Developer from Nizhny Novgorod, Russia. I am actively learning web deve
 ## ⚙️ I use:
 - HTML, CSS
 - Vanilla JavaScript
-- Git
 - Figma
 
 ## 🌟 Key projects
