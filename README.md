@@ -1,5 +1,5 @@
 # Welcome, I'm himorryyyDev! 
-My IRL name is Maksim. Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and love to make beautiful websites
+Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and love to make beautiful websites
 
 ## 🛠 I use:
 - HTML, CSS
