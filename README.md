@@ -13,3 +13,6 @@ Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and l
 ## 📫 Contact w/ me:
 - Email: himorryyyDev@gmail.com
 - [Telegram](https://t.me/himorryyyDev)
+
+## 🪭 My personal Telegram Chanel (thnx for sub)
+- [Нефорсикй прогер](https://t.me/neforprogerr)
