@@ -1,7 +1,7 @@
-# Welcome, I'm himorryyyDev! 
+# Welcome, I'm himorryyyDev!💻
 Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and love to make beautiful websites
 
-## 🛠 I use:
+## ⚙️ I use:
 - HTML, CSS
 - Vanilla JavaScript
 - Git
