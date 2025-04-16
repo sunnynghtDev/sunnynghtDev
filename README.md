@@ -15,4 +15,4 @@ Frontend Developer from Russia, Nizhny Novgorod. Active in Web development and l
 - [Telegram](https://t.me/himorryyyDev)
 
 ## 🪭 My personal Telegram Chanel (thnx for sub)
-- [Нефорсикй прогер](https://t.me/neforprogerr)
+- [Нефорский прогер🪭](https://t.me/neforprogerr)
