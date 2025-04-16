@@ -1,5 +1,5 @@
 # Welcome, I'm himorryyyDev!💻
-Frontend Developer from Russia, Nizhny Novgorod. I am actively learning web development and love creating beautiful websites
+Frontend Developer from Nizhny Novgorod, Russia. I am actively learning web development and love creating beautiful websites
 
 ## ⚙️ I use:
 - HTML, CSS
