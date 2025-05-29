@@ -4,7 +4,7 @@ Frontend Developer from Nizhny Novgorod, Russia. I am actively learning web deve
 ## ⚙️ I use:
 - HTML
 - CSS, TailwindCSS
-- JavaScript, TypeScript
+- JavaScript
 - React
 - Vite
 - Figma, Adobe Photoshop
