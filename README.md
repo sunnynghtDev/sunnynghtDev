@@ -9,7 +9,7 @@
 - Figma, Adobe Photoshop
 
 ## 🌟 Key projects
-- Soon... (give me just a little bit of time)
+- [Lawyer](https://github.com/himorryyyDev/Lawyer)
 
 ## 📫 Contact w/ me:
 - Email: himorryyyDev@gmail.com
