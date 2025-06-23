@@ -2,8 +2,8 @@
 
 ## ⚙️ I use:
 - HTML
-- CSS, TailwindCSS
-- JavaScript
+- CSS
+- JavaScript, SWC
 - React
 - Vite
 - Figma, Adobe Photoshop
