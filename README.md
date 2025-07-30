@@ -3,7 +3,7 @@
 ## ⚙️ I use:
 - HTML
 - CSS
-- JavaScript, SWC
+- TypeScript, JavaScript, SWC
 - React
 - Vite
 - Figma, Adobe Photoshop
