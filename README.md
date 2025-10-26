@@ -1,11 +1,10 @@
 # Welcome, I'm sunnynght!💻
 
 ## ⚙️ I use:
-- HTML
-- CSS
-- TypeScript, JavaScript, SWC
 - React
-- Vite
+- TypeScript, JavaScript
+- CSS Modules
+- Vite, Next.JS
 - Figma, Adobe Photoshop
 
 ## 🌟 Key projects
@@ -13,4 +12,4 @@
 
 ## 📫 Contact w/ me:
 - Email: himorryyyDev@gmail.com
-- [Telegram](https://t.me/himorryyyDev)
+- [Telegram](https://t.me/hsunnynghtDev)
