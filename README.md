@@ -11,5 +11,4 @@
 - [Lawyer](https://github.com/himorryyyDev/Lawyer)
 
 ## 📫 Contact w/ me:
-- Email: himorryyyDev@gmail.com
 - [Telegram](https://t.me/hsunnynghtDev)
