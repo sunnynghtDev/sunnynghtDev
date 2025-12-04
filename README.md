@@ -1,9 +1,9 @@
-# Welcome, I'm sunnynght!💻
+# Welcome, I'm Maksim!💻
 
 ## ⚙️ I use:
 - React
 - TypeScript, JavaScript
-- CSS Modules
+- CSS/SCSS Modules
 - Vite, Next.JS
 - Figma, Adobe Photoshop
 
@@ -11,4 +11,4 @@
 - [Lawyer](https://github.com/himorryyyDev/Lawyer)
 
 ## 📫 Contact w/ me:
-- [Telegram](https://t.me/hsunnynghtDev)
+- [Telegram](https://t.me/MaksimSunny)
