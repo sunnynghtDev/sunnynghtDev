@@ -12,4 +12,4 @@
 
 ## 📫 Contact w/ me:
 - [Telegram](https://t.me/MaksimSunny)
-- [MaksimSunnyDev@gmail.com](MaksimSunnyDev@gmail.com)
+- [MaksimSunnyDev@gmail.com](mailto:MaksimSunnyDev@gmail.com)
